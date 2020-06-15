@@ -1,0 +1,6 @@
+source:
+  git:
+    url: https://github.com/rajivmca2004/spring-petclinic
+    revision: master
+image:
+  tag: index.docker.io/itsrajivsrivastava/spring-petclinic
